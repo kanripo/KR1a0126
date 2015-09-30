@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 仲氏易
-#+DATE: 2015-09-23 09:35:27
-#+PROPERTY: JUAN 24
+#+DATE: 2015-08-24 21:58:59.803504
+#+PROPERTY: ID KR1a0126
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十四
 <pb:KR1a0126_WYG_024-1a>¶
 欽定四庫全書¶
 　仲氏易卷二十四¶
@@ -326,4 +328,3 @@
 　惕出為渙其血不及惕出此與小畜有孚血去惕出¶
 　為有孚惕出不及血去正同¶
 　仲氏易卷二十四¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 仲氏易
-#+DATE: 2015-09-23 09:35:27
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 21:58:59.789426
+#+PROPERTY: ID KR1a0126
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR1a0126_WYG_023-1a>¶
 欽定四庫全書¶
 　仲氏易卷二十三¶
@@ -380,4 +382,3 @@
 　(易于孔子反曰請益商瞿氏不合乾鑿度本東漢/人作託言鄭𤣥註易緯書並亡惟此書世多有之)¶
 　¶
 　仲氏易卷二十三¶
-
